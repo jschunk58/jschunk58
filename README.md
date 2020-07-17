@@ -1,4 +1,6 @@
-### Hi there 👋
+### Joe Schunk
+
+Placeholder until I have time to work on projects.
 
 <!--
 **jschunk58/jschunk58** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
